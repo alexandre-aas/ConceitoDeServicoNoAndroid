@@ -1,0 +1,26 @@
+01-21 17:16:51.841 29364-29364/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service onCreate 
+01-21 17:16:51.841 29364-29364/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service onStartCommand 1
+01-21 17:16:56.933 29364-29364/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service onStartCommand 2
+01-21 17:16:57.717 29364-29364/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service onStartCommand 3
+01-21 17:16:58.534 29364-29364/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service onStartCommand 4
+01-21 17:16:59.711 29364-29364/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service onStartCommand 5
+01-21 17:17:00.411 29364-29364/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service onStartCommand 6
+01-21 17:17:01.845 29364-29398/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service running 1
+01-21 17:17:06.935 29364-29403/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service running 2
+01-21 17:17:07.718 29364-29404/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service running 3
+01-21 17:17:08.535 29364-29405/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service running 4
+01-21 17:17:09.713 29364-29406/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service running 5
+01-21 17:17:10.413 29364-29416/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service running 6
+01-21 17:17:11.846 29364-29398/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service running 1
+01-21 17:17:16.935 29364-29403/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service running 2
+01-21 17:17:17.718 29364-29404/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service running 3
+01-21 17:17:18.536 29364-29405/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service running 4
+01-21 17:17:19.713 29364-29406/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service running 5
+01-21 17:17:20.413 29364-29416/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service running 6
+01-21 17:17:21.846 29364-29398/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service running 1
+01-21 17:17:21.848 29364-29364/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service OnDestroy 
+01-21 17:17:26.936 29364-29403/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service running 2
+01-21 17:17:27.719 29364-29404/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service running 3
+01-21 17:17:28.536 29364-29405/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service running 4
+01-21 17:17:29.713 29364-29406/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service running 5
+01-21 17:17:30.413 29364-29416/com.s.d.a.a.conceitodeserviconoandroid I/ExempleDeServico: Service running 6
